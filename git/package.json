@@ -11,7 +11,7 @@
     "using",
     "express"
   ],
-  "author": "rajesh",
+  "author": "surrya",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
